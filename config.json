@@ -1,3 +1,4 @@
 {
-	"maxRiverItems": 300	
+	"maxRiverItems": 100	
+  "httpPort": 80
 	}
